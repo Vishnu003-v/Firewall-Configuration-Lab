@@ -42,43 +42,7 @@ Test-NetConnection localhost -Port 23
 
 ---
 
-## Screenshots
 
-### Figure 1 – Windows Defender Firewall
-
-![Figure 1](screenshots/figure1_firewall_main.png)
-
----
-
-### Figure 2 – Existing Inbound Rules
-
-![Figure 2](screenshots/figure2_inbound_rules.png)
-
----
-
-### Figure 3 – Block Port 23 Rule
-
-![Figure 3](screenshots/figure3_block_port23.png)
-
----
-
-### Figure 4 – PowerShell Test
-
-![Figure 4](screenshots/figure4_test_port23.png)
-
----
-
-### Figure 5 – Allow SSH Rule
-
-![Figure 5](screenshots/figure5_allow_ssh.png)
-
----
-
-### Figure 6 – Firewall After Removing Rule
-
-![Figure 6](screenshots/figure6_delete_rule.png)
-
----
 
 ## Result
 
